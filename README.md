@@ -1,7 +1,7 @@
 # [ALTAIR_SERVO_MODULE_V4](https://github.com/Altairu/ALTAIR_SERVO_MODULE_V4)
 ALTAIR_SERVO_MODULE_V4
 
-* サーボモータ×８ ピン番号
+### サーボモータ×８ ピン番号
   * B6 tim2_ch1
   * B7 tim4_ch2
   * B8 tim2_ch1 tim4_ch3 timer10_ch1 
